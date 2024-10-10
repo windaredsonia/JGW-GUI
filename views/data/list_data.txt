@@ -1,0 +1,21 @@
+Pistol; Hitam
+Sniper; Pink
+Pisau; Putih
+Basoka; Kuning
+Senapan; Hijau
+Granat; Merah
+Machete; Cokelat
+Gergaji; Abu-abu
+Pistol Angin; Biru
+Shotgun; Ungu
+Keris; Emas
+Tombak; Perak
+Ketapel; Kuning
+Revolver; Hitam
+Panah; Merah
+Kapak; Hijau
+Cannon; Biru
+Bola Besi; Kuning
+Pedang; Putih
+Pistol Kecil; Merah
+Senapan; Ungu
